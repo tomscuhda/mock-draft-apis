@@ -1,0 +1,23 @@
+{
+  "name": "mock-draft-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildbulbasaur1/mock-draft-apis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildbulbasaur1/mock-draft-apis/issues"
+  },
+  "homepage": "https://github.com/wildbulbasaur1/mock-draft-apis#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
